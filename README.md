@@ -9,6 +9,10 @@ Hi, I a'm swadhin, an indie developer exploring various aspects of technology an
 - [Twitter/X](https://x.com/SS_Swadhinn)
 - [website](https://swadhintandi.me)
 
+## Projects
+
+[functionbasket](https://functionbasket.com)
+
 ## Elsewhere
 
-[functionbasket.com](https://functionbasket.com) &centerdot; [blogs](https://functionbasket.com/blogs) &centerdot; [projects](https://swadhintandi.me/projects) &centerdot; [sponsor](https://github.com/sponsors/blueorionn)
+[blogs](https://functionbasket.com/blogs) &centerdot; [projects](https://swadhintandi.me/projects) &centerdot; [sponsor](https://github.com/sponsors/blueorionn)

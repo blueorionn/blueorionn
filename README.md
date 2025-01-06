@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @blueorionn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋
 
-<!---
-blueorionn/blueorionn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I a'm swadhin, an indie developer exploring various aspects of technology and programming. I enjoy experimenting with new frameworks and languages.
+
+- Read more about [me](https://swadhintandi.me)
+
+## Find me across web
+
+- [Twitter/X](https://x.com/SS_Swadhinn)
+- [website](https://swadhintandi.me)
+
+## Elsewhere
+
+[functionbasket.com](https://functionbasket.com) &centerdot; [blogs](https://functionbasket.com/blogs) &centerdot; [projects](https://swadhintandi.me/projects) &centerdot; [sponsor](https://github.com/sponsors/blueorionn)

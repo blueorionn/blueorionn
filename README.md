@@ -15,4 +15,4 @@ Hi, I a'm swadhin, an indie developer exploring various aspects of technology an
 
 ## Elsewhere
 
-[blogs](https://functionbasket.com/blogs) &centerdot; [projects](https://swadhintandi.me/projects) &centerdot; [sponsor](https://github.com/sponsors/blueorionn)
+[blogs](https://medium.com/@meandme01) &centerdot; [projects](https://swadhintandi.me/projects) &centerdot; [sponsor](https://github.com/sponsors/blueorionn)

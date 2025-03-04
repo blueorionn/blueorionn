@@ -10,10 +10,6 @@ Hi, I a'm swadhin, an indie developer exploring various aspects of technology an
 - [Bluesky](https://bsky.app/profile/sswadhinn.bsky.social)
 - [website](https://swadhintandi.me)
 
-## Projects
-
-[functionbasket](https://functionbasket.com)
-
 ## Elsewhere
 
 [blogs](https://medium.com/@functionbasket) &centerdot; [projects](https://swadhintandi.me/projects) &centerdot; [sponsor](https://github.com/sponsors/blueorionn)

@@ -6,9 +6,7 @@ Hi, I a'm swadhin, an indie developer exploring various aspects of technology an
 
 ## Find me across web
 
-- [Twitter/X](https://x.com/SS_Swadhinn)
-- [Bluesky](https://bsky.app/profile/sswadhinn.bsky.social)
-- [website](https://swadhintandi.me)
+[X](https://x.com/SS_Swadhinn) &centerdot; [Bluesky](https://bsky.app/profile/sswadhinn.bsky.social) &centerdot; [website](https://swadhintandi.me)
 
 ## Elsewhere
 

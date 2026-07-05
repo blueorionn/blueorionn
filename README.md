@@ -4,7 +4,7 @@ Hi, I a'm swadhin, an indie developer exploring various aspects of technology an
 
 - Read more about [me](https://swadhintandi.me)
 
-## Find me across web
+## Find me
 
 [X](https://x.com/SSwadhinTandi) &centerdot; [Bluesky](https://bsky.app/profile/sswadhinn.bsky.social) &centerdot; [website](https://swadhintandi.me)
 

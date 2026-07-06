@@ -1,6 +1,6 @@
 ![Swadhin's Github Banner](https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/banner.png)
 
-## Hello World! ![Hi Gif](https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/hi.gif)
+## Hello World! <img src="https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/hi.gif" width="29px">
 
 I'm an indie developer passionate about building scalable applications, developer tools, and automation solutions. I enjoy exploring full-stack development, cloud infrastructure, cybersecurity, and computer science while continuously learning new technologies and solving real-world problems.
 

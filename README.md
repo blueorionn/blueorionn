@@ -44,3 +44,35 @@ I'm an indie developer passionate about building scalable applications, develope
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/blueorionn/Flask-MovieDb">
+<img src="https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png" width="100%" alt="Movie Collection (Flask)"/>
+</a>
+
+<b>Movie Collection (Flask)</b>
+
+Collection of your favorite movies and series.
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/blueorionn/Flask-MovieDb">
+<img src="https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png" width="100%" alt="Movie Collection (Flask)"/>
+</a>
+
+<b>Moodboard (Next.js)</b>
+
+A minimalist social platform where people share moments with pic.
+
+</td>
+
+</tr>
+</table>

@@ -70,7 +70,7 @@ Collection of your favorite movies and series.
 
 <b>Moodboard (Next.js)</b>
 
-A minimalist social platform where people share moments with pic.
+A minimalist social platform to share moments and pic.
 
 </td>
 

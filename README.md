@@ -11,6 +11,17 @@ I'm an indie developer passionate about building scalable applications, develope
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/sswadhinn.bsky.social)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swadhintandi@yahoo.com)
 
+## 💡 Expertise
+
+| Area | Description |
+| ------ | ------------- |
+| 🌐 **Full Stack Development** | Building modern, responsive, and scalable web applications with React, Next.js, Django, Flask, and Node.js. |
+| ☁️ **Cloud & DevOps** | Deploying and managing applications on AWS, GCP, Vercel, with Docker, CI/CD, and modern cloud services. |
+| 🐍 **Python & Automation** | Developing automation tools, CLI applications, web scrapers, bots, and data processing solutions. |
+| 🔐 **Cybersecurity** | Secure application development, vulnerability research, bug hunting, Linux, networking, and security best practices. |
+| 🗄️ **Database Design** | Designing efficient relational and NoSQL databases using PostgreSQL, MySQL, MongoDB, Redis, and MariaDB. |
+| 🧠 **Computer Science** | Strong foundation in data structures, algorithms, mathematics, optimization, and software engineering principles. |
+
 ## ⚡ Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)

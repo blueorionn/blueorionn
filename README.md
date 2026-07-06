@@ -1,4 +1,4 @@
-![Swadhin's Github Banner](https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/banner.png)
+[![Swadhin's Github Banner](https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/banner.png)](https://swadhintandi.me)
 
 ## Hello World! <img src="https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/hi.gif" width="29px">
 

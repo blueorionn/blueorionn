@@ -1,6 +1,6 @@
 [![Swadhin's Github Banner](https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/banner.png)](https://swadhintandi.me)
 
-## Hello World! <img src="https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/hi.gif" width="29px">
+## Hi 👋
 
 I'm an indie developer passionate about building scalable applications, developer tools, and automation solutions. I enjoy exploring full-stack development, cloud infrastructure, cybersecurity, and computer science while continuously learning new technologies and solving real-world problems.
 
@@ -47,32 +47,6 @@ I'm an indie developer passionate about building scalable applications, develope
 
 ## 🚀 Projects
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/blueorionn/Flask-MovieDb">
-<img src="https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png" width="100%" alt="Movie Collection (Flask)"/>
-</a>
-
-<b>Movie Collection (Flask)</b>
-
-Collection of your favorite movies and series.
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/blueorionn/Flask-MovieDb">
-<img src="https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png" width="100%" alt="Movie Collection (Flask)"/>
-</a>
-
-<b>Moodboard (Next.js)</b>
-
-A minimalist social platform to share moments and pic.
-
-</td>
-
-</tr>
-</table>
+| [![Movie Collection (Flask)](https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png)](https://github.com/blueorionn/Flask-MovieDb) | [![Movie Collection (Flask)](https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png)](https://github.com/blueorionn/Flask-MovieDb) |
+| --- | --- |
+| **Movie Collection (Flask)** – Collection of your favorite movies and series. | **Moodboard (Next.js)** – A minimalist social platform to share moments and pic. |

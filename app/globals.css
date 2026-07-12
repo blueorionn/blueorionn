@@ -1,0 +1,84 @@
+@import 'tailwindcss';
+
+:root {
+  --foreground: #ffffff;
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .cursor-glow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: radial-gradient(circle, #243b55 50%, #141e30, #000000);
+    filter: blur(100px);
+    pointer-events: none;
+    z-index: -1;
+    will-change: translate;
+    opacity: 0.5;
+    transition: opacity 250ms;
+  }
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: radial-gradient(circle at top left, #152331, #000000);
+  color: var(--foreground);
+  font-family:
+    'Inter var experimental',
+    'Inter var',
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  scroll-behavior: smooth;
+}
+
+.hide-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  html {
+    background-color: #152331;
+  }
+
+  body {
+    background: #152331;
+  }
+
+  .cursor-glow {
+    display: none !important;
+  }
+
+  .hover-force {
+    transform: translateY(-0.25rem) !important;
+    border-color: rgba(6, 182, 212, 0.3) !important;
+    background-color: rgba(255, 255, 255, 0.08) !important;
+    box-shadow:
+      0 10px 15px -3px rgba(6, 182, 212, 0.05),
+      0 4px 6px -4px rgba(6, 182, 212, 0.05) !important;
+  }
+}

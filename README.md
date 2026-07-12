@@ -1,4 +1,4 @@
-[![Swadhin's Github Banner](https://raw.githubusercontent.com/blueorionn/blueorionn/refs/heads/main/assets/banner.png)](https://swadhintandi.me)
+[![Swadhin's Github Banner](./public/banner.png)](https://swadhintandi.me)
 
 ## Hi 👋
 
@@ -13,14 +13,14 @@ I'm an indie developer passionate about building scalable applications, develope
 
 ## 💡 Expertise
 
-| Area | Description |
-| ------ | ------------- |
-| 🌐 **Full Stack Development** | Building modern, responsive, and scalable web applications with React, Next.js, Django, Flask, and Node.js. |
-| ☁️ **Cloud & DevOps** | Deploying and managing applications on AWS, GCP, Vercel, with Docker, CI/CD, and modern cloud services. |
-| 🐍 **Python & Automation** | Developing automation tools, CLI applications, web scrapers, bots, and data processing solutions. |
-| 🔐 **Cybersecurity** | Secure application development, vulnerability research, bug hunting, Linux, networking, and security best practices. |
-| 🗄️ **Database Design** | Designing efficient relational and NoSQL databases using PostgreSQL, MySQL, MongoDB, Redis, and MariaDB. |
-| 🧠 **Computer Science** | Strong foundation in data structures, algorithms, mathematics, optimization, and software engineering principles. |
+| Area                          | Description                                                                                                          |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Full Stack Development** | Building modern, responsive, and scalable web applications with React, Next.js, Django, Flask, and Node.js.          |
+| ☁️ **Cloud & DevOps**         | Deploying and managing applications on AWS, GCP, Vercel, with Docker, CI/CD, and modern cloud services.              |
+| 🐍 **Python & Automation**    | Developing automation tools, CLI applications, web scrapers, bots, and data processing solutions.                    |
+| 🔐 **Cybersecurity**          | Secure application development, vulnerability research, bug hunting, Linux, networking, and security best practices. |
+| 🗄️ **Database Design**        | Designing efficient relational and NoSQL databases using PostgreSQL, MySQL, MongoDB, Redis, and MariaDB.             |
+| 🧠 **Computer Science**       | Strong foundation in data structures, algorithms, mathematics, optimization, and software engineering principles.    |
 
 ## ⚡ Technologies & Tools
 
@@ -48,5 +48,5 @@ I'm an indie developer passionate about building scalable applications, develope
 ## 🚀 Projects
 
 | [![Movie Collection (Flask)](https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png)](https://github.com/blueorionn/Flask-MovieDb) | [![Movie Collection (Flask)](https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png)](https://github.com/blueorionn/Flask-MovieDb) |
-| --- | --- |
-| **Movie Collection (Flask)** – Collection of your favorite movies and series. | **Moodboard (Next.js)** – A minimalist social platform to share moments and pic. |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Movie Collection (Flask)** – Collection of your favorite movies and series.                                                                                                            | **Moodboard (Next.js)** – A minimalist social platform to share moments and pic.                                                                                                         |

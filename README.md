@@ -47,6 +47,6 @@ I'm an indie developer passionate about building scalable applications, develope
 
 ## 🚀 Projects
 
-| [![Movie Collection (Flask)](https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png)](https://github.com/blueorionn/Flask-MovieDb) | [![Movie Collection (Flask)](https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png)](https://github.com/blueorionn/Flask-MovieDb) |
+| [![Cinexa (Flask)](https://raw.githubusercontent.com/blueorionn/cinexa/refs/heads/main/cinexa/static/public/cover.png)](https://github.com/blueorionn/cinexa) | [![Cinexa (Flask)](https://raw.githubusercontent.com/blueorionn/cinexa/refs/heads/main/cinexa/static/public/cover.png)](https://github.com/blueorionn/cinexa) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Movie Collection (Flask)** – Collection of your favorite movies and series.                                                                                                            | **Moodboard (Next.js)** – A minimalist social platform to share moments and pic.                                                                                                         |

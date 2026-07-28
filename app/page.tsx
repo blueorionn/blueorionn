@@ -126,23 +126,23 @@ export default function Home() {
 
               <AnimateIn>
                 <ProjectCard
-                  title='Movie DB (Flask)'
+                  title='Cinexa'
                   description='A Flask-based web application that explores JWT authentication, middlewares and nosql database integration built for learning.'
-                  imageUrl='https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png'
+                  imageUrl='https://raw.githubusercontent.com/blueorionn/cinexa/main/cinexa/static/public/cover.png'
                   tags={['Python', 'Flask', 'Tailwindcss']}
                   externalLinks={{
-                    github: 'https://github.com/blueorionn/Flask-MovieDb',
+                    github: 'https://github.com/blueorionn/cinexa',
                   }}
                 />
               </AnimateIn>
               <AnimateIn>
                 <ProjectCard
-                  title='Movie DB (Flask)'
-                  description='A Flask-based web application that explores JWT authentication, middlewares and nosql database integration built for learning.'
-                  imageUrl='https://raw.githubusercontent.com/blueorionn/Flask-MovieDb/refs/heads/master/moviedb/static/public/cover.png'
-                  tags={['Python', 'Flask', 'Tailwindcss']}
+                  title='Crypticworld'
+                  description='Crypticworld is a growing collection of browser-based tools for common security and encoding tasks.'
+                  imageUrl='https://raw.githubusercontent.com/blueorionn/crypticworld/refs/heads/main/public/img/crypticworld-site-img.png'
+                  tags={['Next.js', 'Cybersecurity', 'Encryption']}
                   externalLinks={{
-                    github: 'https://github.com/blueorionn/Flask-MovieDb',
+                    github: 'https://github.com/blueorionn/crypticworld',
                   }}
                 />
               </AnimateIn>

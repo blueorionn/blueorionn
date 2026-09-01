@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
-  themeColor: '#152331',
+  themeColor: '#0a0f1c',
 }
 
 export default function RootLayout({
@@ -31,9 +31,13 @@ export default function RootLayout({
     <html
       lang='en'
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-      style={{ backgroundColor: '#152331' }}
+      style={{ backgroundColor: '#0a0f1c' }}
     >
       <body>
+        <div className='aurora-orb orb-cyan' aria-hidden />
+        <div className='aurora-orb orb-indigo' aria-hidden />
+        <div className='aurora-orb orb-violet' aria-hidden />
+        <div className='noise-overlay' aria-hidden />
         <CursorGlow />
         {children}
       </body>

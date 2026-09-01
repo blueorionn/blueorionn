@@ -4,8 +4,7 @@ import { AppIcon } from '../misc/AppIcon'
 export default function Footer() {
   const SOCIAL_LINKS = {
     GITHUB: 'https://github.com/blueorionn',
-    X: 'https://x.com/SSwadhinTandi',
-    BLUESKY: 'https://bsky.app/profile/sswadhinn.bsky.social',
+    X: 'https://x.com/blueorionn',
     MEDIUM: 'https://medium.com/@blueorionn',
     MAIL: 'swadhintandi@yahoo.com',
   }
@@ -16,12 +15,6 @@ export default function Footer() {
         <Link href={`${SOCIAL_LINKS.GITHUB}`} target='_blank'>
           <AppIcon
             name='brand-github'
-            className='text-slate-400 transition-colors duration-300 hover:text-cyan-600'
-          />
-        </Link>
-        <Link href={`${SOCIAL_LINKS.BLUESKY}`} target='_blank'>
-          <AppIcon
-            name='brand-bluesky'
             className='text-slate-400 transition-colors duration-300 hover:text-cyan-600'
           />
         </Link>

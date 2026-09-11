@@ -1,3 +1,4 @@
+import { AppIcon } from '@/components/misc/AppIcon'
 import NavBar from '@/components/ui/Navbar'
 import Header from '@/components/ui/Header'
 import Footer from '@/components/ui/Footer'
@@ -61,6 +62,15 @@ export default function Home() {
                     className='rounded-lg border border-cyan-400/40 px-6 py-3 text-sm font-semibold tracking-wide text-cyan-300 transition-all duration-300 hover:-translate-y-0.5 hover:bg-cyan-400/10 hover:shadow-[0_0_24px_rgba(34,211,238,0.15)]'
                   >
                     Check out my work
+                  </a>
+                  <a
+                    href='/resume.pdf'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='inline-flex items-center gap-2 rounded-lg px-4 py-3 text-sm font-semibold tracking-wide text-slate-300 transition-all duration-300 hover:-translate-y-0.5 hover:text-cyan-300'
+                  >
+                    <span>Resume</span>
+                    <AppIcon name='external-link' size={15} />
                   </a>
                 </div>
               </AnimateIn>

@@ -6,7 +6,7 @@ I'm an indie developer passionate about building scalable applications, develope
 
 ## 📫 Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/blueorionn)&ensp;[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/SSwadhinTandi)&ensp;[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/sswadhinn.bsky.social)&ensp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swadhintandi@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/blueorionn)&ensp;[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/SSwadhinTandi)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swadhin-tandi-97aa9b341)&ensp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swadhintandi@yahoo.com)
 
 ## 💡 Expertise
 

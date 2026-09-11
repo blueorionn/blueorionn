@@ -5,6 +5,7 @@ import { roboto } from '@/lib/fonts'
 export default function Footer() {
   const SOCIAL_LINKS = {
     GITHUB: 'https://github.com/blueorionn',
+    LINKEDIN: 'https://www.linkedin.com/in/swadhin-tandi-97aa9b341',
     X: 'https://x.com/blueorionn',
     MEDIUM: 'https://medium.com/@blueorionn',
     MAIL: 'swadhintandi@yahoo.com',
@@ -16,6 +17,7 @@ export default function Footer() {
         {(
           [
             { href: SOCIAL_LINKS.GITHUB, name: 'brand-github', type: 'tabler', label: 'GitHub' },
+            { href: SOCIAL_LINKS.LINKEDIN, name: 'brand-linkedin', type: 'tabler', label: 'LinkedIn' },
             { href: SOCIAL_LINKS.X, name: 'brand-x', type: 'tabler', label: 'X' },
             { href: SOCIAL_LINKS.MEDIUM, name: 'medium', type: 'grommet-icons', label: 'Medium' },
             { href: `mailto:${SOCIAL_LINKS.MAIL}`, name: 'mail', type: 'tabler', label: 'Email' },

@@ -49,9 +49,9 @@ export default function Home() {
                 <p className='mt-6 max-w-xl text-lg leading-relaxed text-slate-400'>
                   Indie developer focused on scalable applications, developer
                   tools, and automation — exploring{' '}
-                  <span className='text-slate-200'>full-stack development</span>,{' '}
-                  <span className='text-slate-200'>cloud infrastructure</span>,
-                  and <span className='text-slate-200'>cybersecurity</span>.
+                  <span className='text-slate-200'>full-stack development</span>
+                  , <span className='text-slate-200'>cloud infrastructure</span>
+                  , and <span className='text-slate-200'>cybersecurity</span>.
                 </p>
               </AnimateIn>
               <AnimateIn>
@@ -69,22 +69,21 @@ export default function Home() {
             <TechMarquee />
 
             {/* About */}
-            <div className='flex flex-col gap-6 p-2' id='about' data-section='about'>
+            <div
+              className='flex flex-col gap-6 p-2'
+              id='about'
+              data-section='about'
+            >
               <AnimateIn>
                 <SectionHeading number='01' title='about me' />
               </AnimateIn>
               <AnimateIn>
                 <p className='max-w-2xl leading-relaxed text-slate-400'>
-                  I care about clean code, performance, and maintainability —
-                  building secure APIs, reliable software, and interfaces that
-                  feel effortless.
-                </p>
-              </AnimateIn>
-              <AnimateIn>
-                <p className='max-w-2xl leading-relaxed text-slate-400'>
-                  Beyond the code, I{"'"}m constantly experimenting with new
-                  technologies and taking things apart to understand how they
-                  work beneath the surface.
+                  I{"'"}m an indie developer passionate about building scalable
+                  applications, developer tools, and automation solutions. I
+                  enjoy exploring full-stack development, cloud infrastructure,
+                  cybersecurity, and computer science while continuously
+                  learning new technologies and solving real-world problems.
                 </p>
               </AnimateIn>
             </div>

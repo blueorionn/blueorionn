@@ -4,33 +4,32 @@
 
 I'm an indie developer passionate about building scalable applications, developer tools, and automation solutions. I enjoy exploring full-stack development, cloud infrastructure, cybersecurity, and computer science while continuously learning new technologies and solving real-world problems.
 
+## Expertise
+
+- **Full Stack Development** — modern, responsive, scalable web apps with Next.js, Django and Flask.
+- **Cloud & DevOps** — deploying and managing applications on AWS using Docker and CI/CD pipelines
+- **Python** — automation tools, CLI applications, and data processing solutions
+- **Cybersecurity** — writing secure applications and hunting vulnerabilities, backed by hands-on Linux, networking, and security best practices
+- **Database Design** — efficient relational database design in PostgreSQL, where I'm most skilled
+- **Computer Science** — applying data structures, algorithms, and mathematics to design optimized, well-engineered software
+
+## Stack
+
+- **Frameworks** — Next.js for the frontend, Django and Flask when Python is the right tool for the backend
+- **Databases** — PostgreSQL for schema design, queries, and everything in between
+- **Cloud & Infra** — AWS for hosting and scaling, Docker for reproducible environments
+- **Everyday** — GitHub, Linux, and Bash — where most of my day actually happens
+
+## Projects
+
+- **[Calcify](https://github.com/blueorionn/calcify)** — a fast, clean, offline-capable calculator suite — basic, scientific, BMI calculators and more — built with Next.js 16, React 19, shadcn/ui (radix-nova) and mathjs, installable as a PWA.
+
+- **[Albumy](https://github.com/blueorionn/albumy)** — a curated music library for copyright-free music. Albumy brings together freely licensed tracks — from sources like NCS, Free Music Archive and the YouTube Audio Library — into one place where they can be browsed, searched and streamed.
+
+- **[BHHV](https://github.com/blueorionn/bhhv)** — view HTTP history exported from the Burp Suite Community Edition (CE) CSV and JSON log file.
+
+- **[Cinexa](https://github.com/blueorionn/cinexa)** — a movie and TV series discovery platform powered by PostgreSQL. It provides rich metadata, intelligent search, and personalized recommendation features for discovering movies and TV shows.
+
 ## 📫 Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/blueorionn)&ensp;[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/SSwadhinTandi)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swadhin-tandi-97aa9b341)&ensp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swadhintandi@yahoo.com)
-
-## 💡 Expertise
-
-| Area                          | Description                                                                                                          |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 🌐 **Full Stack Development** | Building modern, responsive, and scalable web applications with React, Next.js, Django, Flask, and Node.js.          |
-| ☁️ **Cloud & DevOps**         | Deploying and managing applications on AWS, GCP, Vercel, with Docker, CI/CD, and modern cloud services.              |
-| 🐍 **Python & Automation**    | Developing automation tools, CLI applications, web scrapers, bots, and data processing solutions.                    |
-| 🔐 **Cybersecurity**          | Secure application development, vulnerability research, bug hunting, Linux, networking, and security best practices. |
-| 🗄️ **Database Design**        | Designing efficient relational and NoSQL databases using PostgreSQL, MySQL, MongoDB, Redis, and MariaDB.             |
-| 🧠 **Computer Science**       | Strong foundation in data structures, algorithms, mathematics, optimization, and software engineering principles.    |
-
-## ⚡ Technologies & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)&ensp;![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&ensp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&ensp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&ensp;![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)&ensp;![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)&ensp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&ensp;![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&ensp;![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)&ensp;![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)&ensp;![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)&ensp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-<br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&ensp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&ensp;![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-## 🚀 Projects
-
-| [![Cinexa (Flask)](https://raw.githubusercontent.com/blueorionn/cinexa/refs/heads/main/cinexa/static/public/cover.png)](https://github.com/blueorionn/cinexa) | [![Crypticworld](https://raw.githubusercontent.com/blueorionn/crypticworld/refs/heads/main/public/img/crypticworld-site-img.png)](https://github.com/blueorionn/crypticworld) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Movie Collection (Flask)** – Collection of your favorite movies and series. | **Crypticworld** – A growing toolkit for everyday security tasks. |
+[GitHub](https://github.com/blueorionn) · [X](https://x.com/SSwadhinTandi) · [LinkedIn](https://www.linkedin.com/in/swadhin-tandi-97aa9b341) · [Email](mailto:swadhintandi@yahoo.com)

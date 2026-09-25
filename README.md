@@ -1,6 +1,4 @@
-[![Swadhin's Github Banner](./public/banner.png)](https://swadhintandi.me)
-
-## Hi 👋
+# Hi 👋
 
 I'm an indie developer passionate about building scalable applications, developer tools, and automation solutions. I enjoy exploring full-stack development, cloud infrastructure, cybersecurity, and computer science while continuously learning new technologies and solving real-world problems.
 
@@ -32,4 +30,4 @@ I'm an indie developer passionate about building scalable applications, develope
 
 ## 📫 Reach Me
 
-[GitHub](https://github.com/blueorionn) · [X](https://x.com/SSwadhinTandi) · [LinkedIn](https://www.linkedin.com/in/swadhin-tandi-97aa9b341) · [Email](mailto:swadhintandi@yahoo.com)
+[Portfolio](https://swadhintandi.me) · [GitHub](https://github.com/blueorionn) · [X](https://x.com/SSwadhinTandi) · [LinkedIn](https://www.linkedin.com/in/swadhin-tandi-97aa9b341) · [Email](mailto:swadhintandi@yahoo.com)

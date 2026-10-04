@@ -109,23 +109,62 @@ export default function Home() {
               </AnimateIn>
               <AnimateIn>
                 <ProjectCard
-                  title='Cinexa'
-                  description='A Flask-based web application that explores JWT authentication, middlewares and nosql database integration built for learning.'
-                  imageUrl='https://raw.githubusercontent.com/blueorionn/cinexa/main/cinexa/static/public/cover.png'
-                  tags={['Python', 'Flask', 'Tailwindcss']}
+                  title='Calcify'
+                  description='A fast, clean, offline-capable calculator suite — basic, scientific, BMI calculators and more.'
+                  imageUrl='/images/calcify.png'
+                  tags={['Next.js 16', 'shadcn/ui', 'mathjs', 'Serwist']}
                   externalLinks={{
-                    github: 'https://github.com/blueorionn/cinexa',
+                    github: 'https://github.com/blueorionn/calcify',
                   }}
                 />
               </AnimateIn>
               <AnimateIn>
                 <ProjectCard
-                  title='Crypticworld'
-                  description='Crypticworld is a growing collection of browser-based tools for common security and encoding tasks.'
-                  imageUrl='https://raw.githubusercontent.com/blueorionn/crypticworld/refs/heads/main/public/img/crypticworld-site-img.png'
-                  tags={['Next.js', 'Cybersecurity', 'Encryption']}
+                  title='Albumy'
+                  description='A curated music library for copyright-free music. Albumy brings together freely licensed tracks — from sources like NCS, Free Music Archive and the YouTube Audio Library — into one place where they can be browsed, searched and streamed.'
+                  imageUrl='/images/albumy.png'
+                  tags={[
+                    'Django 6.1',
+                    'Django Rest Framework',
+                    'PostgreSQL',
+                    'AWS (cloudfront, s3, SES)',
+                    'React 19',
+                  ]}
                   externalLinks={{
-                    github: 'https://github.com/blueorionn/crypticworld',
+                    github: 'https://github.com/blueorionn/albumy',
+                  }}
+                />
+              </AnimateIn>
+              <AnimateIn>
+                <ProjectCard
+                  title='Photopik'
+                  description='A quiet home for your photos — a curated photo gallery.'
+                  imageUrl='/images/photopik.png'
+                  tags={[
+                    'Next.js 16',
+                    'Supabase',
+                    'Drizzle',
+                    'AWS (cloudfront, s3, SES)',
+                  ]}
+                  externalLinks={{
+                    github: 'https://github.com/blueorionn/photopik',
+                  }}
+                />
+              </AnimateIn>
+              <AnimateIn>
+                <ProjectCard
+                  title='Cinexa'
+                  description='A quiet home for your photos — a curated photo gallery.'
+                  imageUrl='/images/cinexa.png'
+                  tags={[
+                    'Django 6.1',
+                    'Django Rest Framework',
+                    'Adaptive Streaming',
+                    'AWS (cloudfront, s3)',
+                    'React 19',
+                  ]}
+                  externalLinks={{
+                    github: 'https://github.com/blueorionn/cinexa',
                   }}
                 />
               </AnimateIn>

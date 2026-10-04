@@ -24,7 +24,7 @@ I'm an indie developer passionate about building scalable applications, develope
 
 - **[Albumy](https://github.com/blueorionn/albumy)** — a curated music library for copyright-free music. Albumy brings together freely licensed tracks — from sources like NCS, Free Music Archive and the YouTube Audio Library — into one place where they can be browsed, searched and streamed.
 
-- **[BHHV](https://github.com/blueorionn/bhhv)** — view HTTP history exported from the Burp Suite Community Edition (CE) CSV and JSON log file.
+- **[Photopik](https://github.com/blueorionn/photopik)** — a quiet home for your photos — a curated photo gallery built on Next.js, Supabase, and CloudFront.
 
 - **[Cinexa](https://github.com/blueorionn/cinexa)** — a movie and TV series discovery platform powered by PostgreSQL. It provides rich metadata, intelligent search, and personalized recommendation features for discovering movies and TV shows.
 

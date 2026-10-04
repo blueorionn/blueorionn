@@ -14,9 +14,7 @@ export default function Header() {
           SWADHIN TANDI
         </Link>
       </h1>
-      <h2
-        className={`${roboto.className} mb-2 text-xl text-cyan-400/90`}
-      >
+      <h2 className={`${roboto.className} mb-2 text-xl text-cyan-400/90`}>
         Software Engineer
       </h2>
       <h3 className='max-w-60 text-lg leading-relaxed text-slate-400 sm:max-w-xs'>

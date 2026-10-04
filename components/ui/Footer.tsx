@@ -16,11 +16,36 @@ export default function Footer() {
       <div className='flex items-center gap-5'>
         {(
           [
-            { href: SOCIAL_LINKS.GITHUB, name: 'brand-github', type: 'tabler', label: 'GitHub' },
-            { href: SOCIAL_LINKS.LINKEDIN, name: 'brand-linkedin', type: 'tabler', label: 'LinkedIn' },
-            { href: SOCIAL_LINKS.X, name: 'brand-x', type: 'tabler', label: 'X' },
-            { href: SOCIAL_LINKS.MEDIUM, name: 'medium', type: 'grommet-icons', label: 'Medium' },
-            { href: `mailto:${SOCIAL_LINKS.MAIL}`, name: 'mail', type: 'tabler', label: 'Email' },
+            {
+              href: SOCIAL_LINKS.GITHUB,
+              name: 'brand-github',
+              type: 'tabler',
+              label: 'GitHub',
+            },
+            {
+              href: SOCIAL_LINKS.LINKEDIN,
+              name: 'brand-linkedin',
+              type: 'tabler',
+              label: 'LinkedIn',
+            },
+            {
+              href: SOCIAL_LINKS.X,
+              name: 'brand-x',
+              type: 'tabler',
+              label: 'X',
+            },
+            {
+              href: SOCIAL_LINKS.MEDIUM,
+              name: 'medium',
+              type: 'grommet-icons',
+              label: 'Medium',
+            },
+            {
+              href: `mailto:${SOCIAL_LINKS.MAIL}`,
+              name: 'mail',
+              type: 'tabler',
+              label: 'Email',
+            },
           ] as const
         ).map(({ href, name, type, label }) => (
           <Link key={label} href={href} target='_blank' aria-label={label}>

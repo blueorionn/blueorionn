@@ -16,7 +16,11 @@ export default function NavBar() {
         {navItems.map(({ number, label, href, section }) => {
           const isActive = activeSection === section
           return (
-            <a key={section} className='group flex items-center gap-4' href={href}>
+            <a
+              key={section}
+              className='group flex items-center gap-4'
+              href={href}
+            >
               <span
                 className={`block h-px transition-all duration-300 ${
                   isActive
@@ -26,7 +30,9 @@ export default function NavBar() {
               />
               <span
                 className={`flex items-baseline gap-2 transition-colors duration-300 ${
-                  isActive ? 'text-cyan-400' : 'text-slate-500 group-hover:text-slate-200'
+                  isActive
+                    ? 'text-cyan-400'
+                    : 'text-slate-500 group-hover:text-slate-200'
                 }`}
               >
                 <span className='text-xs text-cyan-400/70'>{number}.</span>
